@@ -1,0 +1,14 @@
+.col-xs-4{
+    margin-left: 32%;
+    margin-top: 10%;
+}
+
+
+footer{
+ padding: 10px 0;
+ background-color: #101010;
+ border-top: 5px;
+ color:#9d9d9d;
+ bottom: 0;
+ width: 100%;
+}
